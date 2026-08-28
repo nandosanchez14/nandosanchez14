@@ -4,7 +4,7 @@
 
 [![Portfolio & CV](https://img.shields.io/badge/Portfolio%20%26%20CV-View%20Site-34e5ff?style=for-the-badge&logo=googlechrome&logoColor=0f172a)](https://nandosanchez14.github.io/cv-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-sanchez-hartwig-8a424b220)
-[![Email](https://img.shields.io/badge/Email-nandosanchez14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandosanchez14@gmail.com)
+[![Email](https://img.shields.io/badge/Email-fernando__sh99%40outlook.com-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:fernando_sh99@outlook.com)
 [![Paraguay](https://img.shields.io/badge/Paraguay-Available%20for%20Remote-1e3a5f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 </div>
@@ -122,7 +122,7 @@ One of my key differentiators is the strategic use of **AI tools in the developm
 **Let's build something great together.**
 
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-sanchez-hartwig-8a424b220)
-[![Email Me](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandosanchez14@gmail.com)
+[![Email Me](https://img.shields.io/badge/Send%20an%20Email-D14836?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:fernando_sh99@outlook.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=100&section=footer" />
 
