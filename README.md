@@ -2,6 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Fernando%20Sanchez&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Systems%20Engineer%20%C2%B7%20.NET%20Developer%20%C2%B7%20AI-Assisted%20Programming&descAlignY=58&descColor=93c5fd" />
 
+[![Portfolio & CV](https://img.shields.io/badge/Portfolio%20%26%20CV-View%20Site-34e5ff?style=for-the-badge&logo=googlechrome&logoColor=0f172a)](https://nandosanchez14.github.io/cv-portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Sanchez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-sanchez-hartwig-8a424b220)
 [![Email](https://img.shields.io/badge/Email-nandosanchez14%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandosanchez14@gmail.com)
 [![Paraguay](https://img.shields.io/badge/Paraguay-Available%20for%20Remote-1e3a5f?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
