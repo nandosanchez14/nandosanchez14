@@ -57,7 +57,10 @@ I'm a **Systems Engineer and .NET Developer** with **6+ years of experience** in
 ### 🗂️ [task-management-api](https://github.com/nandosanchez14/task-management-api)
 > **ASP.NET Core 9 · SQL Server · JWT · EF Core · xUnit**
 
-Production-ready Task Management REST API with JWT authentication, clean architecture (Controller → Service → Repository), pagination, filtering, Swagger docs and unit tests with Moq.
+[![CI](https://github.com/nandosanchez14/task-management-api/actions/workflows/ci.yml/badge.svg)](https://github.com/nandosanchez14/task-management-api/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
+Portfolio project: Task Management REST API with JWT authentication, clean architecture (Controller → Service → Repository), pagination, filtering, Swagger docs and xUnit tests.
 
 `C#` `ASP.NET Core 9` `SQL Server` `JWT` `Repository Pattern` `xUnit`
 
@@ -66,7 +69,10 @@ Production-ready Task Management REST API with JWT authentication, clean archite
 ### 👥 [employee-management-api](https://github.com/nandosanchez14/employee-management-api)
 > **ASP.NET Core 9 · SQL Server · Role-Based Auth · CSV Export · Reports**
 
-Enterprise HR management API with department hierarchy, role-based authorization (Admin/Manager/Employee), salary and headcount reports via SQL aggregations, and CSV bulk export.
+[![CI](https://github.com/nandosanchez14/employee-management-api/actions/workflows/ci.yml/badge.svg)](https://github.com/nandosanchez14/employee-management-api/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+
+HR management API with department hierarchy, role-based authorization (Admin/Manager/Employee), salary and headcount reports via SQL aggregations, and CSV bulk export.
 
 `C#` `ASP.NET Core 9` `SQL Server` `Roles & Permissions` `Reports` `CSV Export`
 
@@ -74,6 +80,9 @@ Enterprise HR management API with department hierarchy, role-based authorization
 
 ### 🤖 [ai-smart-notes-api](https://github.com/nandosanchez14/ai-smart-notes-api)
 > **ASP.NET Core 9 · OpenAI GPT API · SQL Server · IHttpClientFactory**
+
+[![CI](https://github.com/nandosanchez14/ai-smart-notes-api/actions/workflows/ci.yml/badge.svg)](https://github.com/nandosanchez14/ai-smart-notes-api/actions/workflows/ci.yml)
+![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 AI-powered Notes API that uses OpenAI GPT-4o to automatically summarize notes, detect priority levels (Critical/High/Medium/Low) and generate smart tags. Works with or without an API key (graceful fallback mode).
 
